@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small example package for movie recommedation
+Author: Chandrashekar reddy
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Movie Recommendation System
